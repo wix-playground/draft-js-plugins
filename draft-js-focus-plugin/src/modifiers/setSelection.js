@@ -1,5 +1,5 @@
-import { SelectionState, EditorState } from 'draft-js';
-import DraftOffsetKey from 'draft-js/lib/DraftOffsetKey';
+import { SelectionState, EditorState } from '@wix/draft-js';
+import DraftOffsetKey from '@wix/draft-js/lib/DraftOffsetKey';
 
 // Set selection of editor to next/previous block
 export default (getEditorState, setEditorState, mode, event) => {

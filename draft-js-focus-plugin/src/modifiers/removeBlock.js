@@ -1,4 +1,4 @@
-import { Modifier, EditorState, SelectionState } from 'draft-js';
+import { Modifier, EditorState, SelectionState } from '@wix/draft-js';
 
 /* NOT USED at the moment, but might be valuable if we want to fix atomic block behaviour */
 
