@@ -1,4 +1,4 @@
-import { EditorState } from 'draft-js';
+import { EditorState } from '@wix/draft-js';
 import decorateComponentWithProps from 'decorate-component-with-props';
 import createDecorator from './createDecorator';
 import AlignmentTool from './AlignmentTool';
