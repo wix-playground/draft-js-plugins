@@ -1,4 +1,4 @@
-import { EditorState, AtomicBlockUtils } from 'draft-js';
+import { EditorState, AtomicBlockUtils } from '@wix/draft-js';
 
 export default (entityType) => (editorState, data) => {
   const contentState = editorState.getCurrentContent();
