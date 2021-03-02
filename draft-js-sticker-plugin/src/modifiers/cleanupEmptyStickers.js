@@ -6,7 +6,7 @@ import {
   EditorState,
   Modifier,
   SelectionState,
-} from 'draft-js';
+} from '@wix/draft-js';
 
 const cleanupSticker = (editorState: Object, blockKey: String) => {
   const content = editorState.getCurrentContent();
