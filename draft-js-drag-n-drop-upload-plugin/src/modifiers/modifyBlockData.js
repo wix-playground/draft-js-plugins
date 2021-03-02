@@ -1,4 +1,4 @@
-import { EditorState } from 'draft-js';
+import { EditorState } from '@wix/draft-js';
 
 export default function (editorState, key, data) {
   const currentContentState = editorState.getCurrentContent();

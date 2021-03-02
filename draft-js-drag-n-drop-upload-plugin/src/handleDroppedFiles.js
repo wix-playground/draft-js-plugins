@@ -1,6 +1,6 @@
 // import replaceBlock from './modifiers/replaceBlock';
 // import modifyBlockData from './modifiers/modifyBlockData';
-import { EditorState } from 'draft-js';
+import { EditorState } from '@wix/draft-js';
 import { readFiles } from './utils/file';
 // import { getBlocksWhereEntityData } from './utils/block';
 
