@@ -9,7 +9,7 @@ import {
   EditorState,
   genKey,
   Modifier,
-} from 'draft-js';
+} from '@wix/draft-js';
 import {
   List,
   Repeat
