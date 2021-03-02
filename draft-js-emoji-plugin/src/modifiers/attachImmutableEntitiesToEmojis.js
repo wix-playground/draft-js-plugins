@@ -1,4 +1,4 @@
-import { EditorState, Modifier, SelectionState } from 'draft-js';
+import { EditorState, Modifier, SelectionState } from '@wix/draft-js';
 import findWithRegex from 'find-with-regex';
 import emojione from 'emojione';
 
