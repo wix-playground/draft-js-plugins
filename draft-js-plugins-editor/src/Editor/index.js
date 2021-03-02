@@ -5,7 +5,7 @@ import {
   EditorState,
   Editor,
   DefaultDraftBlockRenderMap,
-} from 'draft-js';
+} from '@wix/draft-js';
 import { Map } from 'immutable';
 import proxies from './proxies';
 import moveSelectionToEnd from './moveSelectionToEnd';

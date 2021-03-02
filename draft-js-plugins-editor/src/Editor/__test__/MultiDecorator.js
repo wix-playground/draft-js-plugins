@@ -1,4 +1,4 @@
-import Draft from 'draft-js';
+import Draft from '@wix/draft-js';
 import { expect } from 'chai';
 import MultiDecorator from '../MultiDecorator';
 
