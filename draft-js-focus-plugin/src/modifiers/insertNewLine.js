@@ -4,7 +4,7 @@ import {
   EditorState,
   BlockMapBuilder,
   genKey as generateRandomKey,
-} from 'draft-js';
+} from '@wix/draft-js';
 
 const insertBlockAfterSelection = (contentState, selectionState, newBlock) => {
   const targetKey = selectionState.getStartKey();
