@@ -2,7 +2,7 @@ import { Map, List } from 'immutable';
 
 import keys from 'lodash.keys';
 import decorateComponentWithProps from 'decorate-component-with-props';
-import { EditorState } from 'draft-js';
+import { EditorState } from '@wix/draft-js';
 import Emoji from './components/Emoji';
 import EmojiSuggestions from './components/EmojiSuggestions';
 import EmojiSuggestionsPortal from './components/EmojiSuggestionsPortal';

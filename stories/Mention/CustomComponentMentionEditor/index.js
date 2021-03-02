@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { EditorState } from 'draft-js';
+import { EditorState } from '@wix/draft-js';
 import Editor from 'draft-js-plugins-editor';
 import createMentionPlugin, { defaultSuggestionsFilter } from 'draft-js-mention-plugin';
 import editorStyles from './editorStyles.css';

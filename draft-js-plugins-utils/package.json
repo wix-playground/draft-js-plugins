@@ -30,6 +30,6 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "draft-js": "^0.10.1"
+    "@wix/draft-js": "^0.10.1"
   }
 }

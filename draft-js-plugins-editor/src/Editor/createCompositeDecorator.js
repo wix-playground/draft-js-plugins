@@ -3,7 +3,7 @@
  */
 
 import { List } from 'immutable';
-import { CompositeDecorator } from 'draft-js';
+import { CompositeDecorator } from '@wix/draft-js';
 import decorateComponentWithProps from 'decorate-component-with-props';
 
 export default (decorators, getEditorState, setEditorState) => {

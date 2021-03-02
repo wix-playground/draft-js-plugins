@@ -1,4 +1,4 @@
-import { EditorState } from 'draft-js';
+import { EditorState } from '@wix/draft-js';
 import insertNewLine from './modifiers/insertNewLine';
 import setSelection from './modifiers/setSelection';
 import setSelectionToBlock from './modifiers/setSelectionToBlock';

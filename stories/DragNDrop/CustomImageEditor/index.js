@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {
   convertFromRaw,
   EditorState,
-} from 'draft-js';
+} from '@wix/draft-js';
 import Editor, { composeDecorators } from 'draft-js-plugins-editor';
 import createImagePlugin from 'draft-js-image-plugin';
 import createFocusPlugin from 'draft-js-focus-plugin';

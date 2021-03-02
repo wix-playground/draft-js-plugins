@@ -1,4 +1,4 @@
-import { getDefaultKeyBinding } from 'draft-js';
+import { getDefaultKeyBinding } from '@wix/draft-js';
 
 /**
  * Handle default key bindings.

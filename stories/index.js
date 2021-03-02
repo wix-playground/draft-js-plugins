@@ -1,5 +1,5 @@
 import React from 'react';
-import 'style-loader!css-loader!draft-js/dist/Draft.css'; // eslint-disable-line import/no-unresolved
+import 'style-loader!css-loader!@wix/draft-js/dist/Draft.css'; // eslint-disable-line import/no-unresolved
 
 import { storiesOf } from '@storybook/react';
 // import { action } from '@storybook/addon-actions';

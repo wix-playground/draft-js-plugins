@@ -6,7 +6,7 @@ import {
   EditorState,
   Modifier,
   SelectionState
-} from 'draft-js';
+} from '@wix/draft-js';
 
 export default (editorState: Object, blockKey: String) => {
   let content = editorState.getCurrentContent();

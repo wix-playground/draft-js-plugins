@@ -1,4 +1,4 @@
-import { Modifier, EditorState } from 'draft-js';
+import { Modifier, EditorState } from '@wix/draft-js';
 import getSearchText from '../utils/getSearchText';
 import emojiList from '../utils/emojiList';
 import convertShortNameToUnicode from '../utils/convertShortNameToUnicode';

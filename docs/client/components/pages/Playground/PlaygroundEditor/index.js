@@ -3,7 +3,7 @@ import {
   EditorState,
   Modifier,
   RichUtils,
-} from 'draft-js';
+} from '@wix/draft-js';
 
 import Editor, { createEditorStateWithText } from 'draft-js-plugins-editor';
 
