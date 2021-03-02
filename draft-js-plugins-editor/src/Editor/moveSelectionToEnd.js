@@ -1,7 +1,7 @@
 import {
   EditorState,
   SelectionState,
-} from 'draft-js';
+} from '@wix/draft-js';
 
 /**
  * Returns a new EditorState where the Selection is at the end.

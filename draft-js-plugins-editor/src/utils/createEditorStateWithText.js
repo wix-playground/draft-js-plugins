@@ -5,7 +5,7 @@
 import {
   ContentState,
   EditorState,
-} from 'draft-js';
+} from '@wix/draft-js';
 
 export default (text) => EditorState.createWithContent(
   ContentState.createFromText(text)
