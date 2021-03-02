@@ -1,4 +1,4 @@
-import { EditorState } from 'draft-js';
+import { EditorState } from '@wix/draft-js';
 import createDecorator from './createDecorator';
 
 const store = {
