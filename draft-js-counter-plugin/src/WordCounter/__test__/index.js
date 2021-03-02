@@ -1,7 +1,7 @@
 import React from 'react';
 import { mount } from 'enzyme';
 import { expect } from 'chai';
-import { EditorState, ContentState } from 'draft-js';
+import { EditorState, ContentState } from '@wix/draft-js';
 import createCounterPlugin from '../../index';
 
 describe('CounterPlugin Word Counter', () => {

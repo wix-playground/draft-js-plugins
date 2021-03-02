@@ -1,7 +1,7 @@
 import {
   AtomicBlockUtils,
   RichUtils,
-} from 'draft-js';
+} from '@wix/draft-js';
 
 import * as types from '../constants';
 

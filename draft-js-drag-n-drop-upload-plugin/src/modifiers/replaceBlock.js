@@ -1,4 +1,4 @@
-import { Modifier, EditorState, SelectionState } from 'draft-js';
+import { Modifier, EditorState, SelectionState } from '@wix/draft-js';
 
 export default function (editorState, blockKey, newType) {
   let content = editorState.getCurrentContent();

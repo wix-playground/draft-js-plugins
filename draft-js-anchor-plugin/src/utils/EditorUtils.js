@@ -1,4 +1,4 @@
-import { RichUtils, EditorState } from 'draft-js';
+import { RichUtils, EditorState } from '@wix/draft-js';
 
 export default {
   createLinkAtSelection(editorState, url) {

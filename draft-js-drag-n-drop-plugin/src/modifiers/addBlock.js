@@ -5,7 +5,7 @@ import {
   BlockMapBuilder,
   ContentBlock,
   genKey
-} from 'draft-js';
+} from '@wix/draft-js';
 
 export default function (editorState, selection, type, data, entityType, text = ' ') {
   const currentContentState = editorState.getCurrentContent();

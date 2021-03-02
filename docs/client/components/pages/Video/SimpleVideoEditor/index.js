@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { EditorState, convertFromRaw } from 'draft-js';
+import { EditorState, convertFromRaw } from '@wix/draft-js';
 import Editor from 'draft-js-plugins-editor';
 import createVideoPlugin from 'draft-js-video-plugin';
 import editorStyles from './editorStyles.css';

@@ -1,7 +1,7 @@
 // @flow
 
-import { RichUtils, EditorState } from 'draft-js';
-import type DraftEntityInstance from 'draft-js/lib/DraftEntityInstance';
+import { RichUtils, EditorState } from '@wix/draft-js';
+import type DraftEntityInstance from '@wix/draft-js/lib/DraftEntityInstance';
 
 export default {
   createLinkAtSelection(editorState: EditorState, url: string): EditorState {

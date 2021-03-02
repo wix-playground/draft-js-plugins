@@ -1,6 +1,6 @@
 /* eslint-disable react/no-array-index-key */
 import React from 'react';
-import { getVisibleSelectionRect } from 'draft-js';
+import { getVisibleSelectionRect } from '@wix/draft-js';
 
 export default class Toolbar extends React.Component {
 

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { EditorState, ContentState } from 'draft-js';
+import { EditorState, ContentState } from '@wix/draft-js';
 import Editor from 'draft-js-plugins-editor';
 import createLinkifyPlugin from 'draft-js-linkify-plugin';
 import editorStyles from './editorStyles.css';

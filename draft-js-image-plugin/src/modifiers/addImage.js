@@ -1,7 +1,7 @@
 import {
   EditorState,
   AtomicBlockUtils,
-} from 'draft-js';
+} from '@wix/draft-js';
 
 export default (editorState, url, extraData) => {
   const urlType = 'IMAGE';

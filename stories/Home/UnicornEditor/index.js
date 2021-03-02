@@ -9,7 +9,7 @@ import createUndoPlugin from 'draft-js-undo-plugin';
 import {
   ContentState,
   EditorState,
-} from 'draft-js';
+} from '@wix/draft-js';
 import styles from './styles.css';
 import stickers from './stickers';
 import mentions from './mentions';

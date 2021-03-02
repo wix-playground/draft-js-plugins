@@ -1,6 +1,6 @@
 /* eslint-disable react/no-array-index-key */
 import React from 'react';
-import DraftOffsetKey from 'draft-js/lib/DraftOffsetKey';
+import DraftOffsetKey from '@wix/draft-js/lib/DraftOffsetKey';
 
 export default class Toolbar extends React.Component {
 

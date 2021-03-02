@@ -4,7 +4,7 @@ import { shallow } from 'enzyme';
 import sinon from 'sinon';
 import chai, { expect } from 'chai';
 import sinonChai from 'sinon-chai';
-import { EditorState, Modifier } from 'draft-js';
+import { EditorState, Modifier } from '@wix/draft-js';
 import Undo from '../index';
 
 chai.use(sinonChai);

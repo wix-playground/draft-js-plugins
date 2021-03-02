@@ -14,7 +14,7 @@ import createImagePlugin from 'draft-js-image-plugin';
 import createFocusPlugin from 'draft-js-focus-plugin';
 import createAlignmentPlugin from 'draft-js-alignment-plugin';
 import createBlockDndPlugin from 'draft-js-drag-n-drop-plugin';
-import { convertFromRaw, EditorState } from 'draft-js';
+import { convertFromRaw, EditorState } from '@wix/draft-js';
 import styles from './styles.css';
 import stickers from './stickers';
 import mentions from './mentions';

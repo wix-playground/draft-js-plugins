@@ -1,4 +1,4 @@
-import { Modifier, SelectionState } from 'draft-js';
+import { Modifier, SelectionState } from '@wix/draft-js';
 
 export default function (contentState, blockKey) {
   const afterKey = contentState.getKeyAfter(blockKey);
